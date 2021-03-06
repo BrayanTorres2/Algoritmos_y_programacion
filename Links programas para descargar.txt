@@ -1,0 +1,5 @@
+Descargas
+Visual Studio Code: https://code.visualstudio.com/download
+DFD: https://dfd.softonic.com/descargar
+Pseint: http://pseint.sourceforge.net/
+Opción dos: https://repl.it/

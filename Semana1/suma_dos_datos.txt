@@ -1,0 +1,6 @@
+Proceso Inicio_Suma
+	Leer numero1
+	Leer numero2
+	suma<-numero1+numero2
+	Escribir "la Sumae es:" suma
+FinProceso

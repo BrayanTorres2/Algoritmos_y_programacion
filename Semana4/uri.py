@@ -1,0 +1,25 @@
+palabra1=input("")
+palabra2=input("") 
+palabra3=input("") 
+if(palabra1=="vertebrado"):
+  if(palabra2=="mamifero"):
+    if(palabra3=="onivoro"):
+      print("homem")
+    else:
+      print("vaca")  
+  else:
+    if(palabra3=="carnivoro"):
+      print("aguia") 
+    else:
+      print("pomba")     
+else:
+  if(palabra2=="inseto"):
+    if(palabra3=="herbivoro"):
+      print("lagarta")
+    else:
+      print("pulga")
+  else:
+    if(palabra3=="onivoro"):
+      print("minhoca")
+    else:
+      print("sanguessuga")  

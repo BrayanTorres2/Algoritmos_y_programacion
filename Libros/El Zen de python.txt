@@ -19,3 +19,4 @@ A pesar de que nunca es muchas veces mejor que ahora mismo.
 Si la implementación es difícil de explicar, es una mala idea.
 Si la implementación es fácil de explicar, puede que sea una buena idea.
 Los espacios de nombres son una gran idea, ¡tengamos más de esos!
+https://docs.python.org/3/

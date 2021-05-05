@@ -25,5 +25,5 @@ alias aja=.\venv\Scripts\activate
 Salir del entorno virtual
 deactivate
 #----------------------------------------------------------------------- Panda
-pip freeze
-pip install pandas
+pip freeze #saber que dependencias hay
+pip install pandas #instalar la dependencia pandas

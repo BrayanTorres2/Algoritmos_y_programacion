@@ -27,3 +27,4 @@ deactivate
 #----------------------------------------------------------------------- Panda
 pip freeze #saber que dependencias hay
 pip install pandas #instalar la dependencia pandas
+pip freeze > requirements.txt #cualquier desarrollador pueda instalar las dependencias

@@ -21,3 +21,5 @@ Crear un alias en linux/mac:
 alias nombre-alias="comando"
 
 `alias avenv=“source venv/bin/activate”``
+Salir del entorno virtual
+deactivate

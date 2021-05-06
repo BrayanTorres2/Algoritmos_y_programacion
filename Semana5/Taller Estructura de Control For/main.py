@@ -12,6 +12,19 @@ for i in archivo:
   lista=[]   
 print(c)
 """
+#imprima la posicion de colombia
+"""
+c=0
+lista=[]
+for i in archivo:
+  lista.append(i)
+  a=" ".join(lista)
+  c=c+1 
+  if(a=="Colombia: Bogotá\n"):
+    break
+  lista=[]   
+print(c)
+"""
 #Imprima todos los paises
 """
 lista=[]
@@ -77,5 +90,5 @@ for i in ciudad:
 El alcalde de Antananarivo contrato a algunos alumnos de la Universidad Ean para corregir el archivo de países.txt, ya que la capital de Madagascar NO es rey julien es Antananarivo, espero que el alcalde se vaya contento por su trabajo. Utilice un For para cambiar ese Dato
 """
 #Agregue un país que no esté en la lista 
-
+#H
 archivo.close()

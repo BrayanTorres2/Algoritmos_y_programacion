@@ -1,0 +1,13 @@
+
+Antes de ver y tratar de correr los repositorios les aconsejo ver el siguiente video para como descargar y correr los ejemplos
+https://drive.google.com/file/d/1jR0ThrSHk1Vxh4qZjRzu3tGXQJNwRsTL/view?usp=sharing
+y luego seguir el de creacion de aplicacion:
+https://drive.google.com/file/d/1n1g8RPIHPSHi_WsNgdHf8KXpJR_AK5gr/view?usp=sharing
+
+
+
+Links a repositorios:
+2-) Push kit->https://github.com/juangaines/PushkitExample
+3-)Analytics kit->https://github.com/juangaines/analytics_with_udacity_navigation_and
+4-) Ads kit->https://github.com/juangaines/AdsHuaweiExample
+

@@ -10,4 +10,8 @@ Links a repositorios:
 2-) Push kit->https://github.com/juangaines/PushkitExample
 3-)Analytics kit->https://github.com/juangaines/analytics_with_udacity_navigation_and
 4-) Ads kit->https://github.com/juangaines/AdsHuaweiExample
+5-a)Maps kit->https://github.com/juangaines/MapExampleHuaweiJDGP
+5-b)Map, location, site kit-> https://github.com/juangaines/FlavoredGmsHmsMaps
+
+
 

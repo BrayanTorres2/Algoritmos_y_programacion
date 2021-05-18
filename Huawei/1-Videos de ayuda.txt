@@ -4,7 +4,5 @@ https://developer.android.com/studio/install?hl=es-419
 Videos adicionales Iniciar un proyecto en AGC o correr ejemplos.
 https://drive.google.com/drive/folders/1vd9QaI-FGNOrGnazZQzd-jBmUc4VQFHr?usp=sharing
 
-
-
 Sesiones pre-grabadas->
 Sesion 5 In-App Purchase (DTSE Adrian Gomez)->https://www.youtube.com/watch?v=OywlqPfVito

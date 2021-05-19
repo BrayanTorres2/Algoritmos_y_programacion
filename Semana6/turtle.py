@@ -6,3 +6,4 @@ for i in range(300):
   tortuguita.forward(300)
   tortuguita.left(170)
   tortuguita.speed(100)
+"Siempre hay otro semestre"

@@ -4,34 +4,34 @@ Este curso es una introducción a la algorítmica y a la programación. Se esper
 # Comandos Basicos de la terminal:
 ## Listar archivos:
 
-ls
+`ls`
 Listar archivos para ver su peso de una manera mas mas legible
 
-ls -lh
+`ls -lh`
 Listar archivos ocultos:
 
-ls -a
+`ls -a`
 Identificar la ruta en la que estamos en nuestro sistema:
 
-pwd
+`pwd`
 Movernos entre directorios:
 
-cd
+`cd`
 Crear un directorio:
 
-mkdir
+`mkdir`
 Copiar un archivo:
 
-cp
+`cp`
 Borrar un archivo:
 
-rm
+`rm`
 Mover un archivo:
 
-mv
+`mv`
 Borrar un directorio:
 
-rmdir
+`rmdir`
 Limpiar la terminal
 
-clear
+`clear`

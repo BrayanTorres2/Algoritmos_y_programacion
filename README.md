@@ -15,23 +15,22 @@ Identificar la ruta en la que estamos en nuestro sistema:
 `pwd`
 
 Movernos entre directorios:
-
 `cd`
+
 Crear un directorio:
-
 `mkdir`
+
 Copiar un archivo:
-
 `cp`
+
 Borrar un archivo:
-
 `rm`
+
 Mover un archivo:
-
 `mv`
+
 Borrar un directorio:
-
 `rmdir`
-Limpiar la terminal
 
+Limpiar la terminal
 `clear`
